@@ -54,5 +54,5 @@ The program outputs only the even elements of an array entered by the user.
 1. Make sure you have a C++ compiler installed (such as g++ or MinGW for Windows).
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Igor-Lucky1234/Fundamentals-of-Programming.git
    ```
