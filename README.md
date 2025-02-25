@@ -51,7 +51,7 @@ The program outputs only the even elements of an array entered by the user.
 
 ## How to Run
 
-1. Ensure you have a C++ compiler installed (e.g., g++).
+1. Make sure you have a C++ compiler installed (such as g++ or MinGW for Windows).
 2. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repository.git
